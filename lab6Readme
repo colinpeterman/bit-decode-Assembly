@@ -1,0 +1,23 @@
+Disclaimer:
+BY SUBMITTING THIS FILE TO CARMEN, I CERTIFY THAT I STRICTLY ADHERED TO THE TENURES OF THE OHIO STATE UNIVERSITY’S ACADEMIC INTEGRITY POLICY.
+THIS IS THE README FILE FOR LAB 6.
+∙ Colin Peterman
+
+∙ Total amount of time (effort) it took for you to complete the lab: 3 Hours
+
+∙ Short description of any concerns, interesting problems or discoveries encountered, or comments in general about the contents of the lab
+	I was talking with a TA and they suggested using contstants like 0x88 to simplify my code. I found this really interesting
+	since I had not thought of using those constants, so when writing the code it made a lot more sense to me what we were doing
+	and how I only had to check if the input was a 1 and then or it with thw correct constant.
+	
+∙ Describe how you used gdb to find work with your C language program if there were any. Include how you set breakpoints, variables you printed out, what values they had, what you found.
+	I actually did not have to use gdb to find an issue with my program. Since we copied lab2 and deleted some things it did not have any issues so there was 
+	no reason to use gdb to figure out any errors.
+
+∙ Describe how you used gdb to find a bug in your x86-64 program.
+	Similar to my C language program, I did not end up using gdb. The only issues that I had were when I tried to do the make command and the errors that
+	it gave me during this were very helpful so I ended up making the changes a couple times and it worked. I did not have any syntax issues with rax or anything so
+	I did not use gdb.
+
+∙ Did you have to jump between your C language/x86-64 language programs to fix any bugs? I ended up not having to use gdb for this lab so I did not jump inbetween the two. 
+	After fixing the errors after doing the make command and then trying my code with the examples provided, it worked so I did not use gdb.
